@@ -1,2 +1,2 @@
 soft nsk tz
-gitpages:
+gitpages: https://tagary.github.io/softnsk-tz/
