@@ -130,11 +130,13 @@ body {
   text-transform: uppercase;
   border: 1px solid;
   font-size: 13px;
+  cursor: pointer;
 
   &__order {
     border: 1px solid $white;
     background-color: #3E9CDC;
     color: $white;
+    cursor: pointer;
   }
 
 

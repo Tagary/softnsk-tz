@@ -108,11 +108,13 @@ body {
   text-transform: uppercase;
   border: 1px solid;
   font-size: 13px;
+  cursor: pointer;
 }
 .button__order {
   border: 1px solid #fff;
   background-color: #3E9CDC;
   color: #fff;
+  cursor: pointer;
 }
 
 .order {
